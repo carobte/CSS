@@ -1,2 +1,2 @@
 # CSS
-Repositorio para almacenar y relizar pruebas CSS
+Repositorio para almacenar y realizar pruebas CSS
