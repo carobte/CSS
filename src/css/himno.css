@@ -1,0 +1,26 @@
+header,
+#section{
+    text-align: center;
+}
+body{
+    background-color: gray;
+}
+
+a{
+    text-decoration: none;
+}
+
+#section{
+    width: 25%;
+    margin: auto;
+}
+
+.yellow{
+    color: yellow;
+}
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}

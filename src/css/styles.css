@@ -1,5 +1,17 @@
-h1{
+a{
+    text-decoration: none;
+}
+
+
+header{
     text-align: center;
-    color:purple;
-    font-size: 80px;
+    text-transform: capitalize;
+}
+
+.titulo-azul{
+    color: rgb(83, 83, 255);
+}
+
+.parrafo-verde{
+    color: rgb(3, 114, 3);
 }
